@@ -1,6 +1,8 @@
 # Notes-App
 A Simple Notes Android App which takes Note Title, Sub-Title, Description, as input and takes Date and time from system and saves it in the Database which is created using RoomDB.  
 
+# For Running this App on emulator Please go to this <a href="https://appetize.io/app/7bqybekjy1b3nttdwv32uebfw8?device=nexus5&scale=75&orientation=portrait&osVersion=8.1">link</a>
+
 # * Screen Shots
 
 # 1. Splash Screen
